@@ -1,6 +1,6 @@
 # Titanic-Disaster-prediction
 ### Predicting  survival on Titanic using Kaggle's Titanic Dataset.  <br/>
-Evaluated using various models and among them, Decision tree gave more accurate predictions
+Evaluated using various Machine Learning models and among them, Decision tree gave more accurate predictions
 
 #### Overview
 The data has been split into two groups:
@@ -12,4 +12,6 @@ The training set should be used to build your machine learning models. For the t
 
 The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic.
 
+Here's the link to the competition: <br/>
+https://www.kaggle.com/c/titanic
 
