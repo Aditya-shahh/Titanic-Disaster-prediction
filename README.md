@@ -1,8 +1,8 @@
 # Titanic-Disaster-prediction
-#### Predicting  survival on Titanic using Kaggle's Titanic Dataset. ### <br/>
+### Predicting  survival on Titanic using Kaggle's Titanic Dataset.  <br/>
 Evaluated using various models and among them, Decision tree gave more accurate predictions
 
-### Overview
+#### Overview
 The data has been split into two groups:
 
 1.training set (train.csv) <br/>
